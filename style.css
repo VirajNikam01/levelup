@@ -282,7 +282,8 @@ header{
 /* Responsive Heading Section  */
 @media (max-width:1024px) {
     header{
-        min-height: 50vw;
+        height: fit-content;
+
         padding: 0px 15px 20px 15px;
     }
     #intro{
